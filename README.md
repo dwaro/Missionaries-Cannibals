@@ -1,0 +1,3 @@
+This is the classical missionaries and cannibals problems. The solution incorporates artificial intelligence concepts such as using heuristics to guide the search as well as using an informed breadth first search.
+
+Problem: You have x missionaries and y cannibals on the east side of a river bank. You need to move all of them to the east side of the river via a boat. The boat cannot travel across the river empty. There are 6 seats in the boat. The number of cannibals cannot outnumber the number of missionaries at any one position. Find a solution to moving all missionaries and cannibals across the river.
